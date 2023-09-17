@@ -1,7 +1,7 @@
 <h1 align="center">Hi ??, I'm Deepak chaudhary</h1>
 <h3 align="center">A passionate software Enginner from India</h3>
 
-<img align="right" alt="coding" width="400px src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBXS0VMOVNESzhNU0JQTXdjdjhoSDFSM3Utd3xBQ3Jtc0tuQWpqcVFUVTNJN2p6SkpqWm1vUHdIMVZhM2c3a3hFX1pjbmlMUkFqZXk3NU02aUV2ZXlVc2FyblJ5R0k0UlVtM3FCSnBHLXdzZmh2a0ljd0ZJUTgtLXc1eGRsV1pRLVZ4TUdpczFId1FWMVdFcTF4NA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400px src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak3804&label=Profile%20views&color=0e75b6&style=flat" alt="deepak3804" /> </p>
 
@@ -24,6 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak3804&show_icons=true&locale=en" alt="deepak3804" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak3804&" alt="deepak3804" /></p>
-
 
 
